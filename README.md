@@ -1,7 +1,7 @@
 ## :octocat: GitHub статистика:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maximpontryagin&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?maximpontryagin&layout=compact&theme=vision-friendly-dark)](https://github.com/maximpontryagin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximpontryagin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **maximpontryagin/maximpontryagin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
