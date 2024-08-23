@@ -1,11 +1,6 @@
 ## :octocat: GitHub статистика:
 
-  <a href="https://github.com/maximpontryagin">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximpontryagin&layout=compact&langs_count=4&hide=javascript,css&theme=radical" />
-  </a><p><p>
-  <a href="https://github.com/maximpontryagin">
-    <img height=129 align="center" src="https://github-readme-stats.vercel.app/api?username=maximpontryagin&hide=stars,prs,issues,contribs&rank_icon=github&custom_title=My+GitHub+Stats&theme=radical" />
-  </a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maximpontryagin&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 <!--
 **maximpontryagin/maximpontryagin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
